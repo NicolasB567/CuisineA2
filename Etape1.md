@@ -1,4 +1,4 @@
-Ingredients : <n>
+<strong>Ingredients : </strong>
 * 4 pommes <n>
 * 1 pate brisée <n>
 * 2 oeufs <n>
